@@ -16,6 +16,8 @@
 # age = 23
 # print(  type(age)  )
 
-# constant can not be changed, they are written in bold letters
-PI = 3.142
-print(2 * PI * 3)
+# # constant can not be changed, they are written in bold letters
+# PI = 3.142
+# print(2 * PI * 3)
+
+
