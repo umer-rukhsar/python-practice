@@ -1,3 +1,8 @@
-centigrade = float(input("enter temperature in centigrade"))
-kelvin = centigrade + 273
-print(f"{centigrade} c is equal to {kelvin} K.")
+#Program to add two numbers
+num1 = int(input("Enter First Number : "))
+num2 = int(input("Enter Second Number : "))
+sum = num1 + num2 
+print ("Sum = " , sum)
+
+
+
